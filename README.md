@@ -2,7 +2,7 @@
 
 Welcome to my demonstration of the Nike website, built with React and stylized using the power of Tailwind CSS. This project is a showcase of my abilities to integrate Tailwind CSS into a React application to create responsive and modern designs.
 
-![Nike Website Screenshot](C:\Users\kogan\OneDrive\שולחן העבודה\nikeScreenshot.png)
+![Nike Website Screenshot](nikeScreenshot.png)
 
 ## 🌐 [Live Demo](https://nikewithtailwind.netlify.app/)
 

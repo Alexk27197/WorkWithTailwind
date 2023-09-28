@@ -33,7 +33,7 @@ Feedback, suggestions, and contributions are always welcomed! If you find any is
 
 - [React Documentation](https://reactjs.org/docs/getting-started.html): For comprehensive guides and details on React.
 - [Tailwind CSS Docs](https://tailwindcss.com/docs): For their well-structured documentation and guidelines on utility-first CSS.
-- [Nike](https://www.nike.com/): For inspiration and branding aesthetics.
+
 
 ## License
 
